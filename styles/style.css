@@ -23,6 +23,7 @@ h6 {
 h1 {
   font-size: 96px;
   line-height: 1.5;
+  font-family: var(--default-font-family);
 }
 h2 {
   font-size: 44px;
@@ -138,9 +139,9 @@ nav li {
 }
 footer {
   margin: 60px 0;
+  background: rgb(225, 192, 255);
 }
 footer.contact-box {
-  background: pink;
   padding: 30px 120px;
   border-radius: 10px;
 }
